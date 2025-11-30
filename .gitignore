@@ -1,1 +1,13 @@
 node_modules
+.env
+.vs
+bin
+obj
+*.user
+*.suo
+*.log
+*.DS_Store
+*.exe
+*.dll
+.venv
+__pycache__/
