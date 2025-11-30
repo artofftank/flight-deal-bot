@@ -10,4 +10,5 @@ obj
 *.exe
 *.dll
 .venv
+exports/
 __pycache__/
